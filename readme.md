@@ -4,7 +4,7 @@ This repository contains a Java implementation of a Pokemon game. The game inclu
 
 Here is the *UMl Diagram* for a **Pokemon Game** provided by Sir Barera.
 
-![Pokemon Game UML Diagram](https://photos.app.goo.gl/nWP8YuR65dCX2BHq6)
+![Pokemon Game UML Diagram](received_6436696063053500.webp)
 
 
 ## Classes
