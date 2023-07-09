@@ -128,6 +128,40 @@ public boolean executeMove(Pokemon pokemon)
 
 **Implementation Guide:** To use the `Status` class, create a subclass that extends this class to define a specific status. In the subclass, you can provide additional attributes and methods as needed. The `toString()` method can be overridden to provide a custom string representation of the status.
 
+## Contribution
+
+Contributions to this repository are welcome. If you would like to contribute, please follow these steps:
+
+1. Fork the repository by clicking on the "Fork" button on the repository's page.
+
+2. Clone your forked repository to your local machine:
+
+   ```
+   git clone https://github.com/your-username/name-of-repo.git
+   ```
+
+3. Create a new branch for your changes:
+
+   ```
+   git checkout -b feature/new-feature
+   ```
+
+4. Make your desired changes and commit them:
+
+   ```
+   git commit -m "Add new feature"
+   ```
+
+5. Push your changes to your forked repository:
+
+   ```
+   git push origin feature/new-feature
+   ```
+
+6. Open a pull request on the original repository's page and describe your changes.
+
+Once your pull request is reviewed and approved, it will be merged into the main repository. Thank you for your contribution!
+
 ## Credits
 
 This Pokemon game repository is a Java implementation of a Pokemon game that demonstrates polymorphism in object-oriented programming. It was created by Sir Jomari Joseph Barera, an instructor at VSU, as an activity exercise.
